@@ -51,7 +51,7 @@ Bien qu'il y'ai plusieurs type d'aborder la solution applicative comme
 - Les appli **webview** utiliser par `Ionic`
   ![webview](./img/webview.png)
 - Les appli **reactive** utiliser par `React-native`
-  ![Reactive](./img/reactive.png)
+  ![Reactive](./img/Reactive.png)
   Il y'a une petite subtilité ici, à première vue si on compare les architecture de Ionic et de react-native on pourrait croire que Ionic est bien meilleur d'un point de vue performance, sauf qu'il faut savoir que react-native utilise 3 thread
   - Un pour le **javascript**
   - Un pour le **pont entre le javascript et le service hardware**
